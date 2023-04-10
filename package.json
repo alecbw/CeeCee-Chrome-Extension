@@ -4,7 +4,7 @@
   "description": "production chrome extension",
   "main": "main.js",
   "dependencies": {
-    "libphonenumber-js": "^1.5.1",
+    "libphonenumber-js": "^1.10.26",
     "minimist": "^1.2.5"
   },
   "devDependencies": {},
